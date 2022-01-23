@@ -1,0 +1,16 @@
+{
+  "name": "beingnikhilesh/zohobooks",
+  "description": "Library to Communicate with ZohoBooks API v3 for Accounts Management",
+  "keywords": [
+        "php", "Zohobooks", "codeigniter", "zoho"
+    ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "beingnikhilesh\\zohobooks\\": "src/"
+    }
+  },
+  "require": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
